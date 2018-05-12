@@ -1,0 +1,67 @@
+_repo: Mugby-Junction_27924
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Collins, Charles
+    gutenberg_agent_id: '33042'
+    url: http://www.gutenberg.org/2009/agents/33042
+  - agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+  - agent_name: Edwards, Amelia Ann Blanford
+    aliases:
+    - Edwards, Amelia Blanford
+    - Edwards, Amelia B. (Amelia Blanford)
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '2716'
+    url: http://www.gutenberg.org/2009/agents/2716
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edwards
+  - agent_name: Halliday, Andrew
+    gutenberg_agent_id: '33041'
+    url: http://www.gutenberg.org/2009/agents/33041
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Arriving at Mugby Junction in an attempt to escape his unhappy past,
+  Barbox Brothers befriends a workman and his invalid daughter. With their help, he
+  sets his sights on discovering which of the seven lines of the junction will most
+  aid him in his journey of escape. In exploring one such line, he meets "the woman
+  he had lost," only to return to Mugby Junction once this has played out. Staying
+  there, and continuing his friendship with the workman and his daughter, he collects
+  the myriad stories he hears tell of at the junction.
+gutenberg_issued: '2009-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Railroad stations -- England -- London -- Fiction'
+tableOfContents: "Barbox Brothers / by Charles Dickens\r\nBarbox Brothers and Co.\
+  \ / by Charles Dickens\r\nMain line. The boy at Mugby / by Charles Dickens\r\nNo.\
+  \ 1 branch line. The signalman / by Charles Dickens\r\nNo. 2 branch line. The engine-driver\
+  \ / by Andrew Halliday\r\nNo. 3 branch line. The compensation house / by Charles\
+  \ Collins\r\nNo. 4 branch line. The travelling post office / by Hesba Stretton\r\
+  \nNo. 5 branch line. The engineer / by Amelia Edwards."
+title: Mugby Junction
+url: http://www.gutenberg.org/ebooks/27924
